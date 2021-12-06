@@ -4,4 +4,5 @@ class A
     int a;
 
     A(){};
+    ~A(){};
 }
